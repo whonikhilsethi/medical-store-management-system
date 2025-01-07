@@ -19,3 +19,6 @@
 3. Install the required Python library using the command:
    ```bash
    pip install mysql-connector-python
+**Stock Table:** To manage the medicines in stock.
+**Bill Table:** To store customer billing records.
+**Staff Table:** To manage staff details.
