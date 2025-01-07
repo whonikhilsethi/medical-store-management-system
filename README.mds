@@ -19,3 +19,21 @@
 3. Install the required Python library using the command:
    ```bash
    pip install mysql-connector-python
+**Database Setup**
+
+Open MySQL and create the database and tables by running the script in database_setup.sql:
+                         **source database_setup.sql;**
+Ensure the database name is medical.
+How to Run
+
+Clone this repository:
+git clone https://github.com/YourUsername/medical-store-management-system.git
+Navigate to the project directory:
+cd medical-store-management-system
+Run the Python script:
+python medical_store_management.py
+Tables Created
+
+**Stock Table:** To manage the medicines in stock.
+**Bill Table:** To store customer billing records.
+**Staff Table:** To manage staff details.
