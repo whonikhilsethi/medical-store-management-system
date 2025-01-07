@@ -6,3 +6,12 @@ Python 3.9
 - MySQL 8.x
 - Libraries:
   - `mysql-connector-python`
+
+### **4. Ensure Python 3.9 is Installed**
+
+Lastly, make sure Python 3.9 is installed on your local machine or environment:
+
+- **Windows**: Download and install Python 3.9 from [python.org](https://www.python.org/downloads/release/python-390/).
+- **Mac/Linux**: Use `brew` (for Mac) or package manager for Linux to install Python 3.9.
+
+By following these steps, you'll ensure that the project uses Python 3.9 along with the necessary dependencies, and users will be clear about the environment setup.
