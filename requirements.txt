@@ -1,0 +1,8 @@
+Install MySQL (if it's not already installed):
+Windows: Download from MySQL Installer.
+Mac: Use Homebrew: brew install mysql
+Linux (Ubuntu/Debian): sudo apt-get install mysql-server
+Python 3.9
+- MySQL 8.x
+- Libraries:
+  - `mysql-connector-python`
