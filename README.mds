@@ -8,7 +8,7 @@
 - Manage customer orders and generate bills.
 - Record sales transactions in a bill table.
 - Add, update, and delete staff details.
-
+                              
 ## Technologies Used
 - **Python** for the backend logic.
 - **MySQL** for the database.
